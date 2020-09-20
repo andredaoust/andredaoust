@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on idontwantto.party</title>
-    <link>andredaoust.github.io/tags/</link>
+    <link>https://idontwantto.party/tags/</link>
     <description>Recent content in Tags on idontwantto.party</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="andredaoust.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://idontwantto.party/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

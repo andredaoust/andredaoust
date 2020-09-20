@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on idontwantto.party</title>
-    <link>andredaoust.github.io/posts/</link>
+    <link>https://idontwantto.party/posts/</link>
     <description>Recent content in Posts on idontwantto.party</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2020 14:37:44 -0400</lastBuildDate><atom:link href="andredaoust.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Sep 2020 14:37:44 -0400</lastBuildDate><atom:link href="https://idontwantto.party/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up Local Redis</title>
-      <link>andredaoust.github.io/posts/setting-up-local-redis/</link>
+      <link>https://idontwantto.party/posts/setting-up-local-redis/</link>
       <pubDate>Sun, 20 Sep 2020 14:37:44 -0400</pubDate>
       
-      <guid>andredaoust.github.io/posts/setting-up-local-redis/</guid>
+      <guid>https://idontwantto.party/posts/setting-up-local-redis/</guid>
       <description>Running Redis locally with Docker  Have docker setup and running From a docker compatible command line run:  docker pull redis From the same command line run:  docker run -p 6379:6379 --name=redis redis:latest  this will expose the default port, 6379 and create a container with the name &amp;lsquo;redis&amp;rsquo;.
  Edit your .env file&amp;rsquo;s Redis__ConnectionString= value with:  localhost:6379,ssl=false,abortConnect=false Additional Notes  A useful tool to view/edit the content of a Redis instance is Redis Desktop Manager.</description>
     </item>
