@@ -6,7 +6,21 @@
     <description>Recent content on idontwantto.party</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2020 15:07:41 -0400</lastBuildDate><atom:link href="https://idontwantto.party/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Sep 2020 15:08:17 -0400</lastBuildDate><atom:link href="https://idontwantto.party/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Bus for Tests</title>
+      <link>https://idontwantto.party/posts/azure-service-bus-for-tests/</link>
+      <pubDate>Sun, 20 Sep 2020 15:08:17 -0400</pubDate>
+      
+      <guid>https://idontwantto.party/posts/azure-service-bus-for-tests/</guid>
+      <description>Currently there is no Docker image or utility to test locally so we need to create a free Service Bus in Azure.
+  Have an Azure account created and logged into the Azure Portal
+  Search for Service Bus and select it from the menu.
+  Click &#39;+ Add&#39;
+  Choose a *subscription (&amp;lsquo;Visual Studio Professional Subscription&amp;rsquo; is my default)
+  Choose a Resource group (or create a new one)</description>
+    </item>
+    
     <item>
       <title>Running Mongodb Locally</title>
       <link>https://idontwantto.party/posts/running-mongodb-locally/</link>
