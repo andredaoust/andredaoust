@@ -6,7 +6,26 @@
     <description>Recent content on idontwantto.party</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2020 14:37:44 -0400</lastBuildDate><atom:link href="https://idontwantto.party/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Sep 2020 15:07:41 -0400</lastBuildDate><atom:link href="https://idontwantto.party/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Mongodb Locally</title>
+      <link>https://idontwantto.party/posts/running-mongodb-locally/</link>
+      <pubDate>Sun, 20 Sep 2020 15:07:41 -0400</pubDate>
+      
+      <guid>https://idontwantto.party/posts/running-mongodb-locally/</guid>
+      <description>Running MongoDB locally with Docker  Have docker setup and running From a docker compatible command line run:  docker pull mongo From the same command line run:  docker run -p 27017:27017 --name=mongo mongo:latest  this will expose the default port, 27017 and create a container with the name &amp;lsquo;mongo&amp;rsquo;.
+ Edit your .env file&amp;rsquo;s MongoSettings__ConnectionString= to :  mongodb://localhost:27017/test?retryWrites=true&amp;amp;w=majority Additional Notes  A useful GUI tool to manage MongoDB is Robot3t For cleanup, run the following Docker command docker stop mongo &amp;amp;&amp;amp; docker rm mongo   </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://idontwantto.party/about/</link>
+      <pubDate>Sun, 20 Sep 2020 15:06:38 -0400</pubDate>
+      
+      <guid>https://idontwantto.party/about/</guid>
+      <description>I&amp;rsquo;ll put something interesting here soon.</description>
+    </item>
+    
     <item>
       <title>Setting Up Local Redis</title>
       <link>https://idontwantto.party/posts/setting-up-local-redis/</link>
